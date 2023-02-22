@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Arif Wibisono**.
+Saya seorang **Mahasiswa** di Universitas Esa Unggul.
+Saya seorang **Mahasiswa** yang mengikuti Studi Independen di [Dicoding](https://www.dicoding.com/).
